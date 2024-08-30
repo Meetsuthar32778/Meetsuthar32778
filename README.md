@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Meetsuthar32778
+- 👋 Hi, I’m Meet Suthar
 - 👀 I’m interested in Web and software development
 - 🌱 I’m currently learning Java
