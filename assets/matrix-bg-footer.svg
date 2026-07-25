@@ -1,0 +1,313 @@
+<svg width="1200" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fadeTop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="1"/>
+      <stop offset="20%" stop-color="#0D1117" stop-opacity="0"/>
+      <stop offset="80%" stop-color="#0D1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="1"/>
+    </linearGradient>
+    <style>
+      .col text { font-family: 'Courier New', monospace; font-size: 13px; }
+      .head { fill: #7fdb8f; }
+      .body { fill: #1f8a2f; }
+    </style>
+  </defs>
+  <rect width="1200" height="90" fill="#0D1117"/>
+  <g class="col" transform="translate(6,0)" opacity="0.23">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">H</tspan><tspan x="0" dy="16" class="body" opacity="0.66">X</tspan><tspan x="0" dy="16" class="body" opacity="0.52">B</tspan><tspan x="0" dy="16" class="body" opacity="0.38">C</tspan><tspan x="0" dy="16" class="body" opacity="0.24">}</tspan><tspan x="0" dy="16" class="body" opacity="0.10">E</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-82" to="0,186"
+        dur="9.56s" begin="-13.19s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(38,0)" opacity="0.21">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">Z</tspan><tspan x="0" dy="16" class="body" opacity="0.66">Y</tspan><tspan x="0" dy="16" class="body" opacity="0.52">C</tspan><tspan x="0" dy="16" class="body" opacity="0.38">N</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-86" to="0,154"
+        dur="7.63s" begin="-8.06s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(70,0)" opacity="0.37">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">%</tspan><tspan x="0" dy="16" class="body" opacity="0.66">B</tspan><tspan x="0" dy="16" class="body" opacity="0.52">#</tspan><tspan x="0" dy="16" class="body" opacity="0.38">%</tspan><tspan x="0" dy="16" class="body" opacity="0.24">X</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-85" to="0,170"
+        dur="7.35s" begin="-10.9s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(102,0)" opacity="0.31">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">Y</tspan><tspan x="0" dy="16" class="body" opacity="0.66">H</tspan><tspan x="0" dy="16" class="body" opacity="0.52">}</tspan><tspan x="0" dy="16" class="body" opacity="0.38">F</tspan><tspan x="0" dy="16" class="body" opacity="0.24">#</tspan><tspan x="0" dy="16" class="body" opacity="0.10">R</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-56" to="0,186"
+        dur="10.92s" begin="-4.45s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(134,0)" opacity="0.27">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">V</tspan><tspan x="0" dy="16" class="body" opacity="0.66">E</tspan><tspan x="0" dy="16" class="body" opacity="0.52">$</tspan><tspan x="0" dy="16" class="body" opacity="0.38">C</tspan><tspan x="0" dy="16" class="body" opacity="0.24">#</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-84" to="0,170"
+        dur="7.42s" begin="-11.12s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(166,0)" opacity="0.2">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">&gt;</tspan><tspan x="0" dy="16" class="body" opacity="0.66">%</tspan><tspan x="0" dy="16" class="body" opacity="0.52">&gt;</tspan><tspan x="0" dy="16" class="body" opacity="0.38">V</tspan><tspan x="0" dy="16" class="body" opacity="0.24">R</tspan><tspan x="0" dy="16" class="body" opacity="0.10">N</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-65" to="0,186"
+        dur="12.56s" begin="-4.21s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(198,0)" opacity="0.21">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">{</tspan><tspan x="0" dy="16" class="body" opacity="0.66">[</tspan><tspan x="0" dy="16" class="body" opacity="0.52">T</tspan><tspan x="0" dy="16" class="body" opacity="0.38">&lt;</tspan><tspan x="0" dy="16" class="body" opacity="0.24">Q</tspan><tspan x="0" dy="16" class="body" opacity="0.10">C</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-71" to="0,186"
+        dur="7.83s" begin="-8.15s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(230,0)" opacity="0.36">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">Y</tspan><tspan x="0" dy="16" class="body" opacity="0.66">A</tspan><tspan x="0" dy="16" class="body" opacity="0.52">C</tspan><tspan x="0" dy="16" class="body" opacity="0.38">$</tspan><tspan x="0" dy="16" class="body" opacity="0.24">#</tspan><tspan x="0" dy="16" class="body" opacity="0.10">S</tspan><tspan x="0" dy="16" class="body" opacity="0.10">T</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-87" to="0,202"
+        dur="11.87s" begin="-5.68s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(262,0)" opacity="0.4">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">D</tspan><tspan x="0" dy="16" class="body" opacity="0.66">P</tspan><tspan x="0" dy="16" class="body" opacity="0.52">/</tspan><tspan x="0" dy="16" class="body" opacity="0.38">C</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-86" to="0,154"
+        dur="7.42s" begin="-4.18s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(294,0)" opacity="0.35">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">Q</tspan><tspan x="0" dy="16" class="body" opacity="0.66">W</tspan><tspan x="0" dy="16" class="body" opacity="0.52">U</tspan><tspan x="0" dy="16" class="body" opacity="0.38">1</tspan><tspan x="0" dy="16" class="body" opacity="0.24">&gt;</tspan><tspan x="0" dy="16" class="body" opacity="0.10">U</tspan><tspan x="0" dy="16" class="body" opacity="0.10">I</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-63" to="0,202"
+        dur="11.28s" begin="-7.09s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(326,0)" opacity="0.37">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">N</tspan><tspan x="0" dy="16" class="body" opacity="0.66">X</tspan><tspan x="0" dy="16" class="body" opacity="0.52">X</tspan><tspan x="0" dy="16" class="body" opacity="0.38">[</tspan><tspan x="0" dy="16" class="body" opacity="0.24">D</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-67" to="0,170"
+        dur="8.16s" begin="-8.38s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(358,0)" opacity="0.18">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">$</tspan><tspan x="0" dy="16" class="body" opacity="0.66">P</tspan><tspan x="0" dy="16" class="body" opacity="0.52">Y</tspan><tspan x="0" dy="16" class="body" opacity="0.38">U</tspan><tspan x="0" dy="16" class="body" opacity="0.24">W</tspan><tspan x="0" dy="16" class="body" opacity="0.10">M</tspan><tspan x="0" dy="16" class="body" opacity="0.10">H</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-64" to="0,202"
+        dur="7.58s" begin="-11.88s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(390,0)" opacity="0.33">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">J</tspan><tspan x="0" dy="16" class="body" opacity="0.66">O</tspan><tspan x="0" dy="16" class="body" opacity="0.52">Q</tspan><tspan x="0" dy="16" class="body" opacity="0.38">0</tspan><tspan x="0" dy="16" class="body" opacity="0.24">H</tspan><tspan x="0" dy="16" class="body" opacity="0.10">Y</tspan><tspan x="0" dy="16" class="body" opacity="0.10">}</tspan><tspan x="0" dy="16" class="body" opacity="0.10">V</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-58" to="0,218"
+        dur="11.27s" begin="-9.54s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(422,0)" opacity="0.19">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">B</tspan><tspan x="0" dy="16" class="body" opacity="0.66">&gt;</tspan><tspan x="0" dy="16" class="body" opacity="0.52">$</tspan><tspan x="0" dy="16" class="body" opacity="0.38">X</tspan><tspan x="0" dy="16" class="body" opacity="0.24">X</tspan><tspan x="0" dy="16" class="body" opacity="0.10">X</tspan><tspan x="0" dy="16" class="body" opacity="0.10">X</tspan><tspan x="0" dy="16" class="body" opacity="0.10">E</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-62" to="0,218"
+        dur="10.37s" begin="-8.39s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(454,0)" opacity="0.2">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">&lt;</tspan><tspan x="0" dy="16" class="body" opacity="0.66">I</tspan><tspan x="0" dy="16" class="body" opacity="0.52">F</tspan><tspan x="0" dy="16" class="body" opacity="0.38">T</tspan><tspan x="0" dy="16" class="body" opacity="0.24">B</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-84" to="0,170"
+        dur="7.72s" begin="-6.07s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(486,0)" opacity="0.21">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">1</tspan><tspan x="0" dy="16" class="body" opacity="0.66">C</tspan><tspan x="0" dy="16" class="body" opacity="0.52">L</tspan><tspan x="0" dy="16" class="body" opacity="0.38">W</tspan><tspan x="0" dy="16" class="body" opacity="0.24">H</tspan><tspan x="0" dy="16" class="body" opacity="0.10">O</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-80" to="0,186"
+        dur="13.69s" begin="-5.57s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(518,0)" opacity="0.36">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">&gt;</tspan><tspan x="0" dy="16" class="body" opacity="0.66">/</tspan><tspan x="0" dy="16" class="body" opacity="0.52">/</tspan><tspan x="0" dy="16" class="body" opacity="0.38">R</tspan><tspan x="0" dy="16" class="body" opacity="0.24">D</tspan><tspan x="0" dy="16" class="body" opacity="0.10">H</tspan><tspan x="0" dy="16" class="body" opacity="0.10">E</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-80" to="0,202"
+        dur="12.25s" begin="-3.64s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(550,0)" opacity="0.35">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">{</tspan><tspan x="0" dy="16" class="body" opacity="0.66">1</tspan><tspan x="0" dy="16" class="body" opacity="0.52">L</tspan><tspan x="0" dy="16" class="body" opacity="0.38">{</tspan><tspan x="0" dy="16" class="body" opacity="0.24">V</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-51" to="0,170"
+        dur="8.03s" begin="-6.4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(582,0)" opacity="0.25">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">D</tspan><tspan x="0" dy="16" class="body" opacity="0.66">O</tspan><tspan x="0" dy="16" class="body" opacity="0.52">{</tspan><tspan x="0" dy="16" class="body" opacity="0.38">V</tspan><tspan x="0" dy="16" class="body" opacity="0.24">I</tspan><tspan x="0" dy="16" class="body" opacity="0.10">U</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-82" to="0,186"
+        dur="12.4s" begin="-6.54s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(614,0)" opacity="0.4">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">K</tspan><tspan x="0" dy="16" class="body" opacity="0.66">N</tspan><tspan x="0" dy="16" class="body" opacity="0.52">X</tspan><tspan x="0" dy="16" class="body" opacity="0.38">M</tspan><tspan x="0" dy="16" class="body" opacity="0.24">K</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-51" to="0,170"
+        dur="10.62s" begin="-9.02s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(646,0)" opacity="0.2">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">/</tspan><tspan x="0" dy="16" class="body" opacity="0.66">O</tspan><tspan x="0" dy="16" class="body" opacity="0.52">K</tspan><tspan x="0" dy="16" class="body" opacity="0.38">U</tspan><tspan x="0" dy="16" class="body" opacity="0.24">&lt;</tspan><tspan x="0" dy="16" class="body" opacity="0.10">U</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-64" to="0,186"
+        dur="13.69s" begin="-8.9s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(678,0)" opacity="0.38">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">K</tspan><tspan x="0" dy="16" class="body" opacity="0.66">T</tspan><tspan x="0" dy="16" class="body" opacity="0.52">L</tspan><tspan x="0" dy="16" class="body" opacity="0.38">/</tspan><tspan x="0" dy="16" class="body" opacity="0.24">0</tspan><tspan x="0" dy="16" class="body" opacity="0.10">/</tspan><tspan x="0" dy="16" class="body" opacity="0.10">U</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-57" to="0,202"
+        dur="12.6s" begin="-12.81s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(710,0)" opacity="0.28">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">/</tspan><tspan x="0" dy="16" class="body" opacity="0.66">J</tspan><tspan x="0" dy="16" class="body" opacity="0.52">Z</tspan><tspan x="0" dy="16" class="body" opacity="0.38">T</tspan><tspan x="0" dy="16" class="body" opacity="0.24">D</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-75" to="0,170"
+        dur="12.61s" begin="-0.4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(742,0)" opacity="0.31">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">I</tspan><tspan x="0" dy="16" class="body" opacity="0.66">I</tspan><tspan x="0" dy="16" class="body" opacity="0.52">G</tspan><tspan x="0" dy="16" class="body" opacity="0.38">1</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-59" to="0,154"
+        dur="8.06s" begin="-1.33s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(774,0)" opacity="0.3">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">/</tspan><tspan x="0" dy="16" class="body" opacity="0.66">U</tspan><tspan x="0" dy="16" class="body" opacity="0.52">H</tspan><tspan x="0" dy="16" class="body" opacity="0.38">$</tspan><tspan x="0" dy="16" class="body" opacity="0.24">$</tspan><tspan x="0" dy="16" class="body" opacity="0.10">G</tspan><tspan x="0" dy="16" class="body" opacity="0.10">1</tspan><tspan x="0" dy="16" class="body" opacity="0.10">0</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-56" to="0,218"
+        dur="12.6s" begin="-3.83s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(806,0)" opacity="0.25">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">Z</tspan><tspan x="0" dy="16" class="body" opacity="0.66">K</tspan><tspan x="0" dy="16" class="body" opacity="0.52">L</tspan><tspan x="0" dy="16" class="body" opacity="0.38">1</tspan><tspan x="0" dy="16" class="body" opacity="0.24">O</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-87" to="0,170"
+        dur="8.49s" begin="-6.98s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(838,0)" opacity="0.3">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">Y</tspan><tspan x="0" dy="16" class="body" opacity="0.66">G</tspan><tspan x="0" dy="16" class="body" opacity="0.52">B</tspan><tspan x="0" dy="16" class="body" opacity="0.38">U</tspan><tspan x="0" dy="16" class="body" opacity="0.24">&gt;</tspan><tspan x="0" dy="16" class="body" opacity="0.10">%</tspan><tspan x="0" dy="16" class="body" opacity="0.10">{</tspan><tspan x="0" dy="16" class="body" opacity="0.10">Y</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-58" to="0,218"
+        dur="12.79s" begin="-1.71s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(870,0)" opacity="0.19">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">]</tspan><tspan x="0" dy="16" class="body" opacity="0.66">1</tspan><tspan x="0" dy="16" class="body" opacity="0.52">&lt;</tspan><tspan x="0" dy="16" class="body" opacity="0.38">J</tspan><tspan x="0" dy="16" class="body" opacity="0.24">0</tspan><tspan x="0" dy="16" class="body" opacity="0.10">H</tspan><tspan x="0" dy="16" class="body" opacity="0.10">J</tspan><tspan x="0" dy="16" class="body" opacity="0.10">H</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-85" to="0,218"
+        dur="10.31s" begin="-3.85s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(902,0)" opacity="0.28">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">{</tspan><tspan x="0" dy="16" class="body" opacity="0.66">$</tspan><tspan x="0" dy="16" class="body" opacity="0.52">/</tspan><tspan x="0" dy="16" class="body" opacity="0.38">E</tspan><tspan x="0" dy="16" class="body" opacity="0.24">$</tspan><tspan x="0" dy="16" class="body" opacity="0.10">B</tspan><tspan x="0" dy="16" class="body" opacity="0.10">N</tspan><tspan x="0" dy="16" class="body" opacity="0.10">K</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-82" to="0,218"
+        dur="8.94s" begin="-3.19s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(934,0)" opacity="0.28">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">C</tspan><tspan x="0" dy="16" class="body" opacity="0.66">&lt;</tspan><tspan x="0" dy="16" class="body" opacity="0.52">S</tspan><tspan x="0" dy="16" class="body" opacity="0.38">]</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-67" to="0,154"
+        dur="11.24s" begin="-11.21s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(966,0)" opacity="0.25">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">/</tspan><tspan x="0" dy="16" class="body" opacity="0.66">]</tspan><tspan x="0" dy="16" class="body" opacity="0.52">N</tspan><tspan x="0" dy="16" class="body" opacity="0.38">{</tspan><tspan x="0" dy="16" class="body" opacity="0.24">O</tspan><tspan x="0" dy="16" class="body" opacity="0.10">$</tspan><tspan x="0" dy="16" class="body" opacity="0.10">K</tspan><tspan x="0" dy="16" class="body" opacity="0.10">&lt;</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-78" to="0,218"
+        dur="7.96s" begin="-12.3s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(998,0)" opacity="0.21">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">Z</tspan><tspan x="0" dy="16" class="body" opacity="0.66">C</tspan><tspan x="0" dy="16" class="body" opacity="0.52">L</tspan><tspan x="0" dy="16" class="body" opacity="0.38">R</tspan><tspan x="0" dy="16" class="body" opacity="0.24">F</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-73" to="0,170"
+        dur="13.28s" begin="-11.84s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(1030,0)" opacity="0.22">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">&gt;</tspan><tspan x="0" dy="16" class="body" opacity="0.66">M</tspan><tspan x="0" dy="16" class="body" opacity="0.52">E</tspan><tspan x="0" dy="16" class="body" opacity="0.38">X</tspan><tspan x="0" dy="16" class="body" opacity="0.24">[</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-64" to="0,170"
+        dur="8.14s" begin="-4.65s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(1062,0)" opacity="0.3">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">]</tspan><tspan x="0" dy="16" class="body" opacity="0.66">X</tspan><tspan x="0" dy="16" class="body" opacity="0.52">T</tspan><tspan x="0" dy="16" class="body" opacity="0.38">Y</tspan><tspan x="0" dy="16" class="body" opacity="0.24">K</tspan><tspan x="0" dy="16" class="body" opacity="0.10">U</tspan><tspan x="0" dy="16" class="body" opacity="0.10">S</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-71" to="0,202"
+        dur="7.65s" begin="-8.88s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(1094,0)" opacity="0.39">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">1</tspan><tspan x="0" dy="16" class="body" opacity="0.66">W</tspan><tspan x="0" dy="16" class="body" opacity="0.52">T</tspan><tspan x="0" dy="16" class="body" opacity="0.38">{</tspan><tspan x="0" dy="16" class="body" opacity="0.24">Q</tspan><tspan x="0" dy="16" class="body" opacity="0.10">]</tspan><tspan x="0" dy="16" class="body" opacity="0.10">C</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-64" to="0,202"
+        dur="7.79s" begin="-1.14s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(1126,0)" opacity="0.36">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">D</tspan><tspan x="0" dy="16" class="body" opacity="0.66">O</tspan><tspan x="0" dy="16" class="body" opacity="0.52">P</tspan><tspan x="0" dy="16" class="body" opacity="0.38">A</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-58" to="0,154"
+        dur="13.34s" begin="-11.46s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="col" transform="translate(1158,0)" opacity="0.36">
+    <text x="0" y="0">
+      <tspan x="0" dy="0" class="head" opacity="0.90">X</tspan><tspan x="0" dy="16" class="body" opacity="0.66">H</tspan><tspan x="0" dy="16" class="body" opacity="0.52">}</tspan><tspan x="0" dy="16" class="body" opacity="0.38">]</tspan><tspan x="0" dy="16" class="body" opacity="0.24">#</tspan><tspan x="0" dy="16" class="body" opacity="0.10">[</tspan>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-53" to="0,186"
+        dur="11.9s" begin="-12.75s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <rect width="1200" height="90" fill="url(#fadeTop)"/>
+</svg>
